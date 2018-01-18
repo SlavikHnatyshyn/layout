@@ -1,0 +1,2 @@
+[2018-01-18 18:13:48] layer "img.jpg": Duplicate path: img.jpg
+[2018-01-18 18:13:48] layer "img.jpg": Duplicate path: img.jpg
